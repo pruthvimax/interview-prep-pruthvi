@@ -3,3 +3,5 @@ A structured collection of interview questions with clear explanations and code 
 
 
 - Day 01: HR round interview questions (Tell me about yourself, Strengths & Weaknesses)
+
+- Day 02: HR round interview questions(how do you handle stress and pressure?)
